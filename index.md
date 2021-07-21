@@ -1,7 +1,7 @@
 ---
-title: Happy Jekylling!
+title: Homepage
 banner_text: Jekyll rocks
-banner_image: "/uploads/APC_5605-hdr.JPG"
+banner_image: "/uploads/Falling%20coins.jpg"
 layout: page
 ---
 
