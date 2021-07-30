@@ -8,5 +8,5 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: ''
+url: 'https://veramaximiliano.github.io/singlepage/'
 baseurl: ''
