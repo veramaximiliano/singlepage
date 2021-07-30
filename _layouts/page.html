@@ -4,10 +4,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_path }}">
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
   </head>
   <body>
-    <section class="banner" style="background-image: url('{{ page.banner_image }}')">
+    <section class="banner" style="background-image: url('{{ page.banner_image | relative_url }}')">
       <h1>{{ page.banner_text }}</h1>
     </section>
 
