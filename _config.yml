@@ -8,5 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+<<<<<<< HEAD
 url: https://veramaximiliano.github.io/singlepage/
+=======
+url: 'https://veramaximiliano.github.io/singlepage'
+>>>>>>> Update site
 baseurl: ''
